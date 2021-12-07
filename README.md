@@ -14,7 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilmonyd&show_icons=true&theme=calm&locale=en" alt="ilmonyd" /></p>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
