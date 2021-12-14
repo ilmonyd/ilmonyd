@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
 JSX          6 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.49 % 
 JavaScript   4 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
