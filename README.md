@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
 Other      22 hrs 17 mins  ████████████████████░░░░░   79.86 % 
 Python     5 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.56 % 
