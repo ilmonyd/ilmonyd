@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
 JavaScript   18 mins         ████████████████████░░░░░   79.69 % 
 JSX          4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
