@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
 Python       15 hrs 57 mins  ████████████▓░░░░░░░░░░░░   51.08 % 
 JavaScript   12 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   39.21 % 
