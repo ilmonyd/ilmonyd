@@ -20,10 +20,10 @@
 ```text
 Week: 08 January, 2022 - 14 January, 2022
 
-Python       12 hrs 45 mins  ██████████▒░░░░░░░░░░░░░░   40.81 % 
-JavaScript   12 hrs 26 mins  ██████████░░░░░░░░░░░░░░░   39.76 % 
-Markdown     2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-PowerShell   1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Other        1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript   12 hrs 37 mins  ███████████▓░░░░░░░░░░░░░   46.08 % 
+Python       9 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.00 % 
+Markdown     2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+PowerShell   1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 <!--END_SECTION:waka-->
