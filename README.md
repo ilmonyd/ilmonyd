@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
 Other    2 hrs 11 mins   ███████████████████████▓░   95.32 % 
 Python   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
