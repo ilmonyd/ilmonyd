@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2022 - 28 January, 2022
+Week: 23 January, 2022 - 29 January, 2022
 
 JavaScript   30 hrs 15 mins  ███████████████████████░░   92.42 % 
 Other        1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
