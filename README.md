@@ -20,8 +20,7 @@
 ```text
 Week: 31 January, 2022 - 06 February, 2022
 
-JavaScript   4 hrs 28 mins   ████████████████████████░   95.86 % 
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript   4 hrs 28 mins   ████████████████████████▒   96.99 % 
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 <!--END_SECTION:waka-->
