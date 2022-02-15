@@ -20,6 +20,8 @@
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 40 mins
+
 R            31 mins         ███████████████████▓░░░░░   79.05 % 
 JavaScript   8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 ```
