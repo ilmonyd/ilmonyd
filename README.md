@@ -20,9 +20,8 @@
 ```text
 Week: 10 February, 2022 - 16 February, 2022
 
-Total: 40 mins
+Total: 8 mins
 
-R            31 mins         ███████████████████▓░░░░░   79.05 % 
-JavaScript   8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JavaScript   8 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
