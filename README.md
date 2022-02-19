@@ -18,6 +18,9 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 February, 2022 - 18 February, 2022
+
+Processing   46 mins         █████████████████████▓░░░   87.16 % 
+JSON         6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 <!--END_SECTION:waka-->
