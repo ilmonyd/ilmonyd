@@ -18,7 +18,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
 TypeScript   2 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.01 % 
 Python       2 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.53 % 
