@@ -3,7 +3,7 @@
 <h3>
   I am an aspiring frontend developer studying applied computer science at Jagiellonian University in Cracow.</h3>
 
-- 🌱 I’m currently learning **React framework**
+- 🌱 I’m currently learning **Angular framework**
 
 <p align="left">
 </p>
