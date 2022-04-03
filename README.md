@@ -19,13 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2022 - To: 02 April 2022
+From: 27 March 2022 - To: 03 April 2022
 
-TypeScript   1 hr 53 mins    ███████████░░░░░░░░░░░░░░   43.55 %
-Python       1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-HTML         38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-SCSS         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Python   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
