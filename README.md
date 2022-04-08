@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
-Docker       14 mins         ███████████████░░░░░░░░░░   60.38 %
-SCSS         6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Docker       23 mins         █████████████████▓░░░░░░░   71.14 %
+SCSS         6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
