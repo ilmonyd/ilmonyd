@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2022 - To: 19 April 2022
+From: 13 April 2022 - To: 20 April 2022
 
 SCSS         4 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.32 %
 TypeScript   3 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
