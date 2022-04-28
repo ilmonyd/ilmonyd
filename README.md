@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-Python       4 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.92 %
-TypeScript   2 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-HTML         2 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-SCSS         2 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-JavaScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-AutoHotkey   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+TypeScript   5 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+Python       4 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+HTML         3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+SCSS         3 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+JavaScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
