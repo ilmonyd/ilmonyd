@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
 Python       2 hrs 14 mins   ███████████████████████░░   92.21 %
 Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
