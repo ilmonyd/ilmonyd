@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 SCSS         6 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   42.43 %
 HTML         3 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
