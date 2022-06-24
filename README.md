@@ -19,14 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 June 2022 - To: 23 June 2022
-
-SCSS         1 hr 11 mins    ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Python       1 hr 5 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
-HTML         1 hr 1 min      ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-JSON         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-TypeScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Markdown     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
