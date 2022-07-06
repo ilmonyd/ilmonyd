@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 June 2022 - To: 05 July 2022
-
-Python       15 mins         ████████████████████████░   95.86 %
-C            0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
