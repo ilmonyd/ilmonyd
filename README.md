@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2022 - To: 16 July 2022
-
-C      8 mins          ████████████████████████░   96.59 %
-JSON   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
