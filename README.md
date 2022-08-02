@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e07a5f&size=40&center=false&vCenter=true&multiline=true&width=900&height=70&lines=Hi%2C+my+name+is+Oleg)](https://git.io/typing-svg)
 
 <h3>
-  I am an aspiring frontend developer studying applied computer science at Jagiellonian University in Cracow.</h3>
+  I am an aspiring frontend developer with way too many project ideas than time.</h3>
 
 - 🌱 I’m currently learning **Angular framework**
 
