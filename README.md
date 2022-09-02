@@ -106,11 +106,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
-
-SCSS         4 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.39 %
-TypeScript   2 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
-HTML         59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
