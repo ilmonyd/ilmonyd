@@ -106,7 +106,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
 Python       1 hr 54 mins    ███████████▓░░░░░░░░░░░░░   47.20 %
 SCSS         40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
