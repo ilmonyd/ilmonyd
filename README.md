@@ -106,11 +106,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Python       1 hr 54 mins    ███████████████████▓░░░░░   78.63 %
-AutoHotkey   29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python   44 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
