@@ -106,7 +106,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 December 2022 - To: 05 January 2023
+
+SCSS         1 hr 30 mins    █████████████████░░░░░░░░   68.59 %
+HTML         28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+TypeScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
 ```
 
 <!--END_SECTION:waka-->
