@@ -106,11 +106,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
-SCSS         1 hr 34 mins    ██████████████▒░░░░░░░░░░   57.51 %
-HTML         36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-TypeScript   33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+SCSS         1 hr 34 mins    █████████████▓░░░░░░░░░░░   54.73 %
+TypeScript   38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+HTML         36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
