@@ -106,7 +106,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
 TypeScript   2 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.78 %
 SCSS         1 hr 48 mins    ███████▓░░░░░░░░░░░░░░░░░   31.25 %
