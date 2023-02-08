@@ -106,7 +106,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 January 2023 - To: 07 February 2023
+
+TypeScript   32 mins         ██████████████████████▓░░   90.33 %
+JSON         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
