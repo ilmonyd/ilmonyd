@@ -3,7 +3,7 @@
 <h3>
   I am an aspiring frontend developer with way too many project ideas than time.</h3>
 
-- 🌱 I’m currently learning **Angular framework**
+- 🌱 I’m currently learning **NestJS framework**
 
 <p align="left">
 </p>
