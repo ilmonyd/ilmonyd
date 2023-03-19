@@ -106,10 +106,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
-TypeScript   14 hrs 4 mins   ██████████████████▓░░░░░░   75.01 %
-Other        1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+TypeScript   16 hrs 4 mins   ███████████████████▓░░░░░   78.10 %
+SQL          1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+YAML         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
