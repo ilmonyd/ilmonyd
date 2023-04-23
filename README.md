@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2023 - To: 21 April 2023
+From: 15 April 2023 - To: 22 April 2023
 
 TypeScript   8 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.47 %
 SCSS         7 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.62 %
