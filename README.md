@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
 CSS          10 mins         █████████████████░░░░░░░░   67.49 %
 TypeScript   3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
