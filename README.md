@@ -20,11 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2023 - To: 28 May 2023
+From: 22 May 2023 - To: 29 May 2023
 
-Python       6 mins          █████████████▓░░░░░░░░░░░   54.93 %
-JSON         5 mins          ███████████▒░░░░░░░░░░░░░   44.83 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python       6 mins          █████████░░░░░░░░░░░░░░░░   36.44 %
+Other        6 mins          ████████▒░░░░░░░░░░░░░░░░   33.66 %
+JSON         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
