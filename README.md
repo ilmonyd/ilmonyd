@@ -20,13 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
-Python       6 mins          █████████░░░░░░░░░░░░░░░░   36.27 %
-Other        6 mins          ████████▒░░░░░░░░░░░░░░░░   33.50 %
-JSON         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other        6 mins          ████████████████████████▓   98.61 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
