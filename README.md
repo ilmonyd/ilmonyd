@@ -6,7 +6,6 @@
 
 - 🎂 I'm [25](https://github.com/ilmonyd/ilmonyd/commit/6cde17101c9eb7af8ae47223c1001023f610f045)
 - 🔭 I’m currently working at [First Advantage](https://fadv.com/)
-- 🗿 Check out my [portfolio](https://olegsemenov.pl)
 
 <h3>Things I code with</h3>
 <p>
